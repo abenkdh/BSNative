@@ -51,4 +51,5 @@ id rating_bar
 id root_view
 id secondary
 layout medium_size
+layout small_size
 styleable BSNative bs_template_type bs_button_background_color bs_button_text_color bs_primary_text_color bs_secondary_text_color bs_rating_color bs_background_color
