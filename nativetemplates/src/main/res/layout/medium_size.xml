@@ -118,8 +118,7 @@
                 <Button
                     android:id="@+id/cta"
                     android:layout_width="match_parent"
-                    android:background="@android:color/transparent"
-                    android:layout_height="30dp"
+                    android:layout_height="wrap_content"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     android:fontFamily="@font/open_sans_light"

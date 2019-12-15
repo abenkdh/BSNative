@@ -56,7 +56,7 @@ public class BSNative extends RelativeLayout {
   private TextView tertiaryView;
   private ImageView iconView;
   private MediaView mediaView;
-  private Button callToActionView;
+  private TextView callToActionView;
   private ConstraintLayout root_view;
   private CardView card_button;
   private int bs_button_background_color = NOT_DEFINED;
